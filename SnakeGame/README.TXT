@@ -4,9 +4,12 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
+PROJECT TITLE:Snake game created in java 
+PURPOSE OF PROJECT:Game created for the using the java
 VERSION or DATE:
 HOW TO START THIS PROJECT:
-AUTHORS:
+To run the project simply click on the game file and clone it to the local directory and afterwards directly jump to bluej package file and run the main class which is the snake game
+AUTHORS:mounikamorishetty
+/
+
 USER INSTRUCTIONS:
